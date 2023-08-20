@@ -8,7 +8,7 @@ I'm a Software Engineer, I'm passionate about learning, sharing knowledge, docum
 
 - 💡 Fun fact: I am a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023, i am also a trained lawyer
 - 🌱 I am a lover of Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer, (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailto:ojimaisback@yahoo.com.
 
