@@ -9,7 +9,7 @@
 ### About Me
 
 👩🏽‍💻 **Software Engineer | Legal Practitioner**  
-💡 Fun fact: Graduate of [AltSchool Africa](https://altschoolafrica.com/schools/engineering), Class of 2023  
+💡 Fun fact: Graduate of [AltSchool Africa](https://altschoolafrica.com/), Class of 2023  
 🌱 Passionate about **Python**, backend development, and sharing knowledge  
 💼 Open to Backend Engineering opportunities  
 😊 Seeking collaborations in open source projects and hackathons  
