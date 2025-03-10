@@ -13,7 +13,7 @@
 🌱 Passionate about **Python**, backend development, and sharing knowledge  
 💼 Open to Backend Engineering opportunities  
 😊 Seeking collaborations in open source projects and hackathons  
-📄 [View my resume](https://drive.google.com/file/d/14SwFBLlyjHpOV0ezUWVzromRABvo1suz/view?usp=sharing)  
+📄 [View my resume](https://docs.google.com/document/d/1c0_aCVNV0-byaXJcByP-AaCyPhwQCXGG/edit?usp=drive_link&ouid=112054487278793997929&rtpof=true&sd=true)  
 📧 Reach me at [ojimaisback@gmail.com](mailto:ojimaisback@gmail.com)
 
 ---
